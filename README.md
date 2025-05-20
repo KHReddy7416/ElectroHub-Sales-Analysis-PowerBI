@@ -33,12 +33,12 @@ This repository contains an interactive Power BI dashboard built to analyze Elec
    - Visual breakdown of sales across cities.
 
 ## 🛠️ How to Use
-1. Download both `.pbix` and `.xlsx` files.
+1. Download `.pbix` file.
 2. Open `ElectroHub_Sales_Report.pbix` in Power BI Desktop.
 3. If prompted, re-link the Excel data source via:
    - *Transform Data > Edit Queries > Data Source Settings*
 
 ## 📌 Notes
 - Data is simulated for analysis purposes.
-- Report built using Power BI Desktop (version info optional).
+- Report built using Power BI Desktop.
 - Designed for business analysts and stakeholders to explore performance metrics.
