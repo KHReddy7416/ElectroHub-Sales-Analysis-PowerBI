@@ -2,9 +2,8 @@
 
 This repository contains an interactive Power BI dashboard built to analyze ElectroHub's sales performance. It leverages data-driven insights to explore sales trends, profitability, customer behavior, and promotional impact.
 
-## 📁 Files Included
-- `ElectroHub_Sales_Report.pbix` – Power BI report with all visualizations.
-- `ElectroHub_Sales_Data.xlsx` – The dataset used to generate insights in the report.
+## 📁 File Included
+- `ElectroHub_Sales_Report.pbix` – Power BI report with all visualizations and the dataset used to generate insights in the report.
 
 ## 📊 Key Dashboard Features
 
